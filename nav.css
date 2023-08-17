@@ -1,0 +1,64 @@
+
+
+
+     /* navbar*/
+  
+       
+
+.nav{
+  grid-area: nav;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   font-style: italic;
+   font-weight: 100;
+   font-size: xx-large;
+   color: #161313;
+   display: flex;
+   }
+   
+   .logo{
+     padding-right: none;
+     font-size: xx-large;
+     font-family:Georgia, 'Times New Roman', Times, serif;
+     font-style: italic;
+     text-transform :capitalize;
+     color: #161313;
+     margin-left:40rem;
+   }
+   
+   
+   ul {
+     font-size: large;
+     text-transform: uppercase;
+     list-style-type: none;
+     margin: 0;
+     width: 97%;
+     background-color: #ebcccc;
+     display: flex;
+     padding-top: 2rem;
+     padding-bottom: 2rem;
+     
+   }
+   
+   li a {
+     display:inline-flex;
+     color: black;
+     padding: 8px 16px;
+     text-decoration: none;
+     text-align: center;
+     font-size: large;
+     position: right;
+   }
+   
+         
+         
+         li a:hover {
+           background-color: #ccbaba;
+           color: rgb(231, 50, 50);
+  
+         }
+          
+          
+          
+      
+      
+    
